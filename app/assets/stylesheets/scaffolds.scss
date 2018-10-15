@@ -3,13 +3,13 @@ body {
   color: #333;
   margin: 33px;
   font-family: verdana, arial, helvetica, sans-serif;
-  font-size: 1.5em;
+  font-size: 1em;
   line-height: 1em;
 }
 
 p, ol, ul, td {
   font-family: verdana, arial, helvetica, sans-serif;
-  font-size: 1.5em;
+  font-size: 1em;
   line-height: 1em;
 }
 
@@ -23,11 +23,11 @@ a {
   color: #FFA500;
 
   &:visited {
-    color: #666;
+    color: #006600;
   }
 
   &:hover {
-    color: #fff;
+    color: #FFA500;
     background-color: #000;
     font-weight: bold;
   }
